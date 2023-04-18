@@ -1,0 +1,110 @@
+
+body {
+    margin: 0;
+    text-align: center;
+}
+
+.one {
+    background-color: black;
+    /* position: relative; */
+    height: 700px;
+}
+
+h1 {
+    color: white;
+    /* position: absolute; */
+    margin: auto;
+    margin-top: 0;
+    padding-top: 200px;
+    font-size: 100px;
+    font-family: 'Chivo Mono', monospace;
+
+
+
+}
+
+h2 {
+    color: white;
+    font-family: 'Chivo Mono', monospace;
+    font-size: 30px;
+}
+
+.vishal_logo {
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+.objective {
+    color: grey;
+    padding: 50px 20%;
+    font-family: 'Chivo Mono', monospace;
+    margin: auto;
+    padding-bottom: 200px;
+}
+
+.education {
+    color: black;
+    font-size: 40px;
+}
+
+.qual {
+    color: grey;
+    font-size: 20px;
+    font-family: 'Chivo Mono', monospace;
+}
+
+.graduation-cap {
+    position: absolute;
+    width: 40px;
+    top: 710px;
+    left: 20px;
+}
+
+.WX {
+    color: white;
+    font-family: 'Chivo Mono', monospace;
+    padding-top: 50px;
+    font-size: 40px;
+}
+
+.three {
+    background-color: grey;
+    padding-bottom: 20px;
+}
+
+h3 {
+    font-size: 20px;
+    font-family: 'Chivo Mono', monospace;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Chivo Mono', monospace; 
+}
+
+.four{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+td {
+    color: white;
+    font-family: 'Chivo Mono', monospace; 
+}
+
+.skill-table {
+    margin: auto;
+}
+
+.copyrights {
+    color: grey;
+    padding-top: 50px;
+}
+
+.skills {
+    font-size: 40px;
+    font-family: 'Chivo Mono', monospace; 
+}
